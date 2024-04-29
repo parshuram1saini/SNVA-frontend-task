@@ -1,0 +1,41 @@
+.head1{
+    color: gray;
+    font-size: 13px;
+}
+.head2{
+    color: rgb(78, 71, 71);
+    font-size: 15px;
+    font-weight: 400;
+}
+.border-bottom-gray{
+    border-bottom: 1px solid gray;
+}
+.text-align-end{
+    text-align: end;
+}
+.headingWrapper{
+    padding-bottom: 12px;
+}
+.counter{
+    background-color: rgba(213, 208, 213, 0.267);
+    padding: 0 5px;
+}
+.Plus-minus{
+    background-color: white;
+}
+.margin-top-12{
+    margin-top: 12px;
+}
+button{
+    cursor: pointer;
+}
+
+.Airports-wrapper{
+    max-height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.table-row{
+    margin-bottom: 8px;
+    padding-right: 15px;
+}
