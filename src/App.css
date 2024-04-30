@@ -9,6 +9,9 @@
 .align-center{
   align-items: center;
 }
+.align-flex-start{
+  align-items: flex-start;
+}
 .justify-center{
   justify-content: center;
 }
